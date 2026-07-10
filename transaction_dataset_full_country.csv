@@ -1,0 +1,101 @@
+txn_id,account_id,merchant,merchant_country,amount,txn_type,txn_at
+1,ACC01007,Aldi,Germany,77.14,purchase,2026-06-01 10:30:00+00
+2,ACC01007,Loblaws,Canada,32.24,purchase,2026-06-01 12:36:00+00
+3,ACC01004,MediaMarkt,Germany,176.68,purchase,2026-06-01 15:23:00+00
+4,ACC01006,ATM / Bank Transfer,Canada,49.55,transfer,2026-06-01 16:30:00+00
+5,ACC01012,Amazon,United States,27.03,purchase,2026-06-01 16:54:00+00
+6,ACC01015,Loblaws,Canada,205.91,purchase,2026-06-01 19:14:00+00
+7,ACC01005,Asda,United Kingdom,4.86,purchase,2026-06-01 21:35:00+00
+8,ACC01014,Shoppers Drug Mart,Canada,6.64,purchase,2026-06-01 23:08:00+00
+9,ACC01015,MediaMarkt,Germany,91.05,purchase,2026-06-01 23:52:00+00
+10,ACC01014,Uber,United States,71.9,purchase,2026-06-02 02:15:00+00
+11,ACC01010,Lidl,Germany,93.85,purchase,2026-06-02 03:08:00+00
+12,ACC01002,ATM / Bank Transfer,Canada,66.46,transfer,2026-06-02 03:32:00+00
+13,ACC01008,Loblaws,Canada,163.93,purchase,2026-06-02 05:03:00+00
+14,ACC01015,ATM / Bank Transfer,United States,48.2,transfer,2026-06-02 05:53:00+00
+15,ACC01015,Amazon,United States,29.03,purchase,2026-06-02 08:11:00+00
+16,ACC01012,ATM / Bank Transfer,United States,62.85,withdrawal,2026-06-02 11:03:00+00
+17,ACC01003,Target,United States,23.69,purchase,2026-06-02 11:53:00+00
+18,ACC01007,Uber,United States,4.78,purchase,2026-06-02 14:33:00+00
+19,ACC01005,Boots,United Kingdom,110.61,purchase,2026-06-02 16:23:00+00
+20,ACC01015,ATM / Bank Transfer,United States,42.69,withdrawal,2026-06-02 18:54:00+00
+21,ACC01007,ATM / Bank Transfer,United States,7.38,withdrawal,2026-06-02 21:07:00+00
+22,ACC01013,ATM / Bank Transfer,United States,33.75,withdrawal,2026-06-02 22:52:00+00
+23,ACC01004,Tim Hortons,Canada,27.91,purchase,2026-06-02 23:30:00+00
+24,ACC01004,Target,United States,107.71,purchase,2026-06-03 02:29:00+00
+25,ACC01013,Tim Hortons,Canada,31.99,purchase,2026-06-03 04:26:00+00
+26,ACC01012,ATM / Bank Transfer,United States,21.1,withdrawal,2026-06-03 06:07:00+00
+27,ACC01007,Tim Hortons,Canada,53.66,purchase,2026-06-03 08:17:00+00
+28,ACC01020,Amazon,United States,10.5,purchase,2026-06-03 11:01:00+00
+29,ACC01009,Tim Hortons,Canada,17.2,purchase,2026-06-03 13:42:00+00
+30,ACC01015,Sainsbury,United Kingdom,42.33,purchase,2026-06-03 15:44:00+00
+31,ACC01017,Canadian Tire,Canada,61.09,purchase,2026-06-03 18:04:00+00
+32,ACC01017,ATM / Bank Transfer,United States,17.02,transfer,2026-06-03 18:15:00+00
+33,ACC01002,Lidl,Germany,22.66,purchase,2026-06-03 20:33:00+00
+34,ACC01019,Shoppers Drug Mart,Canada,31.19,purchase,2026-06-03 23:22:00+00
+35,ACC01004,Asda,United Kingdom,15.36,purchase,2026-06-04 00:09:00+00
+36,ACC01005,Lidl,Germany,39.87,purchase,2026-06-04 02:42:00+00
+37,ACC01001,Uber,United States,61.01,purchase,2026-06-04 02:54:00+00
+38,ACC01020,MediaMarkt,Germany,63.59,purchase,2026-06-04 05:30:00+00
+39,ACC01020,MediaMarkt,Germany,60.21,purchase,2026-06-04 07:47:00+00
+40,ACC01007,Canadian Tire,Canada,22.36,purchase,2026-06-04 10:27:00+00
+41,ACC01010,Asda,United Kingdom,86.47,purchase,2026-06-04 11:36:00+00
+42,ACC01017,Tim Hortons,Canada,115.26,purchase,2026-06-04 12:22:00+00
+43,ACC01009,ATM / Bank Transfer,United States,95.26,withdrawal,2026-06-04 14:59:00+00
+44,ACC01001,ATM / Bank Transfer,Germany,78.44,transfer,2026-06-04 16:52:00+00
+45,ACC01020,Loblaws,Canada,142.28,purchase,2026-06-04 19:34:00+00
+46,ACC01018,Lidl,Germany,60.37,purchase,2026-06-04 22:32:00+00
+47,ACC01004,Uber,United States,21.18,purchase,2026-06-05 01:09:00+00
+48,ACC01008,Asda,United Kingdom,43.5,purchase,2026-06-05 03:13:00+00
+49,ACC01014,ATM / Bank Transfer,Canada,34.85,transfer,2026-06-05 03:30:00+00
+50,ACC01002,Amazon,United States,35.41,purchase,2026-06-05 04:40:00+00
+51,ACC01016,Boots,United Kingdom,53.35,purchase,2026-06-05 05:06:00+00
+52,ACC01012,ATM / Bank Transfer,Germany,124.68,transfer,2026-06-05 06:54:00+00
+53,ACC01009,Starbucks,United States,171.54,purchase,2026-06-05 08:42:00+00
+54,ACC01001,MediaMarkt,Germany,12.09,purchase,2026-06-05 11:32:00+00
+55,ACC01003,Lidl,Germany,139.06,purchase,2026-06-05 12:39:00+00
+56,ACC01003,Lidl,Germany,49.23,purchase,2026-06-05 14:14:00+00
+57,ACC01002,Asda,United Kingdom,20.97,purchase,2026-06-05 16:07:00+00
+58,ACC01001,ATM / Bank Transfer,United States,41.74,withdrawal,2026-06-05 19:06:00+00
+59,ACC01003,Tim Hortons,Canada,5.76,purchase,2026-06-05 21:30:00+00
+60,ACC01004,Uber,United States,62.03,purchase,2026-06-06 00:03:00+00
+61,ACC01014,MediaMarkt,Germany,25.05,purchase,2026-06-06 01:18:00+00
+62,ACC01019,Walmart,United States,18.38,purchase,2026-06-06 02:25:00+00
+63,ACC01017,ATM / Bank Transfer,United States,23.83,withdrawal,2026-06-06 04:15:00+00
+64,ACC01001,Aldi,Germany,169.48,purchase,2026-06-06 06:07:00+00
+65,ACC01004,Tim Hortons,Canada,28.0,purchase,2026-06-06 07:55:00+00
+66,ACC01008,ATM / Bank Transfer,Germany,64.19,transfer,2026-06-06 10:31:00+00
+67,ACC01017,MediaMarkt,Germany,69.64,purchase,2026-06-06 12:10:00+00
+68,ACC01005,Tim Hortons,Canada,29.46,purchase,2026-06-06 14:39:00+00
+69,ACC01001,Shoppers Drug Mart,Canada,15.9,purchase,2026-06-06 16:54:00+00
+70,ACC01016,Starbucks,United States,156.41,purchase,2026-06-06 18:12:00+00
+71,ACC01003,Lidl,Germany,72.41,purchase,2026-06-06 18:50:00+00
+72,ACC01014,Aldi,Germany,20.16,purchase,2026-06-06 21:23:00+00
+73,ACC01016,Uber,United States,29.94,purchase,2026-06-06 21:55:00+00
+74,ACC01010,ATM / Bank Transfer,United States,16.62,withdrawal,2026-06-07 00:22:00+00
+75,ACC01019,ATM / Bank Transfer,United States,55.25,withdrawal,2026-06-07 00:35:00+00
+76,ACC01016,ATM / Bank Transfer,Germany,102.45,transfer,2026-06-07 03:24:00+00
+77,ACC01020,Lidl,Germany,8.38,purchase,2026-06-07 05:14:00+00
+78,ACC01012,ATM / Bank Transfer,United Kingdom,119.38,transfer,2026-06-07 06:07:00+00
+79,ACC01013,MediaMarkt,Germany,3.49,purchase,2026-06-07 06:51:00+00
+80,ACC01017,Canadian Tire,Canada,58.72,purchase,2026-06-07 09:42:00+00
+81,ACC01019,Uber,United States,22.91,purchase,2026-06-07 11:06:00+00
+82,ACC01004,ATM / Bank Transfer,United States,41.2,transfer,2026-06-07 12:56:00+00
+83,ACC01009,ATM / Bank Transfer,Germany,28.1,transfer,2026-06-07 14:41:00+00
+84,ACC01005,Aldi,Germany,68.84,purchase,2026-06-07 16:29:00+00
+85,ACC01009,Tim Hortons,Canada,35.81,purchase,2026-06-07 18:04:00+00
+86,ACC01013,Asda,United Kingdom,2.04,purchase,2026-06-07 20:40:00+00
+87,ACC01012,ATM / Bank Transfer,United States,151.9,transfer,2026-06-07 22:12:00+00
+88,ACC01015,Aldi,Germany,47.62,purchase,2026-06-08 00:24:00+00
+89,ACC01004,Amazon,United States,135.13,purchase,2026-06-08 03:20:00+00
+90,ACC01014,Sainsbury,United Kingdom,110.83,purchase,2026-06-08 04:44:00+00
+91,ACC01018,Boots,United Kingdom,92.19,purchase,2026-06-08 07:18:00+00
+92,ACC01006,ATM / Bank Transfer,United States,5.28,withdrawal,2026-06-08 07:54:00+00
+93,ACC01002,Starbucks,United States,217.27,purchase,2026-06-08 09:52:00+00
+94,ACC01001,Canadian Tire,Canada,120.63,purchase,2026-06-08 10:46:00+00
+95,ACC01004,ATM / Bank Transfer,United States,34.36,withdrawal,2026-06-08 12:43:00+00
+96,ACC01007,ATM / Bank Transfer,United Kingdom,7.39,transfer,2026-06-08 15:13:00+00
+97,ACC01018,Lidl,Germany,7.82,purchase,2026-06-08 16:23:00+00
+98,ACC01009,Tesco,United Kingdom,15.06,purchase,2026-06-08 18:25:00+00
+99,ACC01001,ATM / Bank Transfer,Canada,2.11,transfer,2026-06-08 21:14:00+00
+100,ACC01013,Starbucks,United States,130.78,purchase,2026-06-09 00:07:00+00
