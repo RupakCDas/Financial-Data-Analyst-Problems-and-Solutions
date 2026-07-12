@@ -11,3 +11,6 @@ Real-world context: Banks & FinTechs (Wells Fargo, Stripe, PayPal) lose billions
 #### FRAUD RULE 1: Velocity check — 5+ transactions within 10 minutes.
 Real-world use: Card testing attacks; bots run small transactions quickly.
 
+#### FRAUD RULE 2: Geographic anomaly — transaction outside home country. 
+Real-world case: Account always transacts in US, suddenly appears in Romania.
+
