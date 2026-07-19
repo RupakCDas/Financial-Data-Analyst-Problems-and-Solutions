@@ -1,4 +1,6 @@
 # Financial-Data-Analyst-Problems-Solutions
+-- PROBLEM 1: Transaction Fraud Detection
+-- PROBLEM 2:  Customer Churn & Revenue Retention Analysis
 ## PROBLEM 1: Transaction Fraud Detection
 
 Fraud Detection is used daily by every bank and FinTech. Data analysts collect transactional data from credit card records, account history, user behavior, and device information to build fraud detection systems. 
