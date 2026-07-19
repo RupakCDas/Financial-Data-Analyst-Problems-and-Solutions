@@ -25,3 +25,14 @@ Real-world: Deposits just below $10K to avoid bank reporting threshold. And assu
 
 #### FRAUD MEASURING SCORE: Combine all rules.
 Approach: union all rule flags into a risk score per account or transaction.
+
+
+## PROBLEM 2:  Customer Churn & Revenue Retention Analysis
+The SQL builds cohort retention tables, MRR movement (new/expansion/contraction/churn), and a churn early-warning system. 
+
+#### TASK 1: MRR Movement — New / Expansion / Contraction / Churn 
+Real-world: Company tracks this every month to understand revenue health
+
+
+
+
